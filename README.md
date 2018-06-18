@@ -1,4 +1,4 @@
 # hello-world
-First Repository__
-My first change to my first repository.__
+First Repository  
+My first change to my first repository.  
 
